@@ -1,0 +1,6 @@
+[global]
+ApplicationName=CleanBasketNodeServer
+EnvironmentName=cleanbasketnodeserv-env
+Region=ap-northeast-2
+AWSAccessKeyId=AKIAIAMESBW3OHC5SPOA
+AWSSecretKey=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
